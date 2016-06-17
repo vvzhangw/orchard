@@ -9,6 +9,7 @@ Authenticated是指对已经注册的用户显示出来
 Anonymous是指针对陌生的，匿名用户显示出来
 Disabled是指不显示，只是占一个层级，保存了当前的widget，但是暂时不显示出来。
 TheHomepage是显示在home page上面的
+![img](https://github.com/img1.png)
 
 Rule的作用是如果在选择的时候不按照rule来，那么就会不显示（The Layer Rule value is an expression that resolves to either true or false. If it resolves to true, the widget is displayed; otherwise the widget is not displayed.）
 
